@@ -521,6 +521,9 @@ ol {
 	transform: scale(1.2);
 }
 
+.connect__description3 {
+  display: none;
+}
 /* CONNECT END */
 
 /* MEDIA START */
